@@ -1,0 +1,3 @@
+name = 'digrc'
+grammar = 'digrc'
+path_suffixes = ['.digrc']

@@ -1,0 +1,15 @@
+-4
+-6
+
+# Unsupported comment
+-b0.0.0.0
+-b 0.0.0.0
+-b 0.0.0.0#30
+-b ::1#53
+
+-cIN
+-c IN
+
+-f
+-ffile
+-f file

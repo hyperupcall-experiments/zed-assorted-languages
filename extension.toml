@@ -1,0 +1,11 @@
+id = "assorted-languages"
+name = "Assorted Languages"
+description = "Assorted Languages"
+version = "0.1.0"
+schema_version = 1
+authors = ["Edwin Kofler <edwin@kofler.dev>"]
+repository = "https://github.com/fox-incubating/zed-assorted-languages"
+
+[grammars.digrc]
+repository = "https://github.com/fox-incubating/tree-sitter-digrc"
+commit = "125800e6c3f5d2377235e4c06603601c70051361"
