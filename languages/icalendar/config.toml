@@ -1,0 +1,3 @@
+name = 'icalendar'
+grammar = 'icalendar'
+path_suffixes = ['ical']

@@ -4,8 +4,12 @@ description = "Assorted Languages"
 version = "0.1.0"
 schema_version = 1
 authors = ["Edwin Kofler <edwin@kofler.dev>"]
-repository = "https://github.com/fox-incubating/zed-assorted-languages"
+repository = "https://github.com/hyperupcall-experiments/zed-assorted-languages"
 
 [grammars.digrc]
-repository = "https://github.com/fox-incubating/tree-sitter-digrc"
+repository = "https://github.com/hyperupcall-experiments/tree-sitter-digrc"
 commit = "125800e6c3f5d2377235e4c06603601c70051361"
+
+[grammars.icalendar]
+repository = 'https://github.com/hyperupcall-experiments/tree-sitter-icalendar'
+commit = '373182abdba81d07080ec8e8384aac2207202121'
